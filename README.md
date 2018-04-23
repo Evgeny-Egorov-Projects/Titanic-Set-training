@@ -5,3 +5,7 @@ Prediction  accuracy 78.9% so far with SVC algorithm. Need to either do better f
          * Deck variable extracted from tickets.
          * Title extracted from name and turned into bins.
          * Pclass is modelled with one continued variable rather than categorial.
+          Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
